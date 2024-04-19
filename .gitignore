@@ -7,3 +7,4 @@
 /.idea/modules.xml
 /.idea/todo.iml
 /.idea/vcs.xml
+/todo/src/main/resources/.env
